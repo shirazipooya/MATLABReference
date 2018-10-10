@@ -1,0 +1,11 @@
+2018-10-10 18:52:58: -- Analysis Started by On File Change, After Delay
+2018-10-10 18:52:58: Changes: 5, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 132
+2018-10-10 18:52:58: Left to Right: Copy File: 5 
+2018-10-10 18:52:58: == Sync Started by On File Change, After Delay
+2018-10-10 18:52:58: Copy Over 'C:/Users/Pooya/Documents/GitHub/createMATLABReference/public/MATLABReference/categories/index.xml' -> 'C:/Users/Pooya/Documents/GitHub/MATLABReference/MATLABReference/categories/index.xml' (580)
+2018-10-10 18:52:58: Copy Over 'C:/Users/Pooya/Documents/GitHub/createMATLABReference/public/MATLABReference/index.html' -> 'C:/Users/Pooya/Documents/GitHub/MATLABReference/MATLABReference/index.html' (17,826)
+2018-10-10 18:52:58: Copy Over 'C:/Users/Pooya/Documents/GitHub/createMATLABReference/public/MATLABReference/index.xml' -> 'C:/Users/Pooya/Documents/GitHub/MATLABReference/MATLABReference/index.xml' (530)
+2018-10-10 18:52:58: Copy Over 'C:/Users/Pooya/Documents/GitHub/createMATLABReference/public/MATLABReference/sitemap.xml' -> 'C:/Users/Pooya/Documents/GitHub/MATLABReference/MATLABReference/sitemap.xml' (431)
+2018-10-10 18:52:58: Copy Over 'C:/Users/Pooya/Documents/GitHub/createMATLABReference/public/MATLABReference/tags/index.xml' -> 'C:/Users/Pooya/Documents/GitHub/MATLABReference/MATLABReference/tags/index.xml' (556)
+2018-10-10 18:52:58: == Sync Complete. Time: 00:00:00, Speed: 0 bytes/s, OK: 5, Errors: 0
+2018-10-10 18:52:58: 
